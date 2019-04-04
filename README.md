@@ -1,3 +1,6 @@
+## POINTS: 0
+## KEY: Good start, but web service endpoints do not do what was expected. Remember for REST web services we use the different HTTP message actions to do create/POST, read/GET, update/PUT, delete/DELETE.
+
 # Express CRUD classwork
 
 Reference here for sample data: https://pokedex.org/#/
